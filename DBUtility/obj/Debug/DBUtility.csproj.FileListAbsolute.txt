@@ -1,0 +1,15 @@
+D:\朗迪科技\代码\金币下载\HW会员管理系统源码\DBUtility\bin\Debug\DBUtility.dll
+D:\朗迪科技\代码\金币下载\HW会员管理系统源码\DBUtility\bin\Debug\DBUtility.pdb
+D:\朗迪科技\代码\金币下载\HW会员管理系统源码\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\朗迪科技\代码\金币下载\HW会员管理系统源码\DBUtility\obj\Debug\DBUtility.dll
+D:\朗迪科技\代码\金币下载\HW会员管理系统源码\DBUtility\obj\Debug\DBUtility.pdb
+E:\我的\程序猿\处理后程序\asp.net\CXY0061-会员系统\DBUtility\bin\Debug\DBUtility.dll
+E:\我的\程序猿\处理后程序\asp.net\CXY0061-会员系统\DBUtility\bin\Debug\DBUtility.pdb
+E:\我的\程序猿\处理后程序\asp.net\CXY0061-会员系统\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\我的\程序猿\处理后程序\asp.net\CXY0061-会员系统\DBUtility\obj\Debug\DBUtility.dll
+E:\我的\程序猿\处理后程序\asp.net\CXY0061-会员系统\DBUtility\obj\Debug\DBUtility.pdb
+F:\美容院管理\CXY0061-会员系统\DBUtility\bin\Debug\DBUtility.dll
+F:\美容院管理\CXY0061-会员系统\DBUtility\bin\Debug\DBUtility.pdb
+F:\美容院管理\CXY0061-会员系统\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+F:\美容院管理\CXY0061-会员系统\DBUtility\obj\Debug\DBUtility.dll
+F:\美容院管理\CXY0061-会员系统\DBUtility\obj\Debug\DBUtility.pdb
